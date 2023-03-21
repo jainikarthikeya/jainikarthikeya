@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Python for datascience
 - 🤔 I’m looking for help with learning Python
 - 💬 Ask me about datascience
-- 😄 Pronouns: He
+- 😄 Pronouns: He/His
